@@ -1,0 +1,13 @@
+body{
+  background-color: rgb(148, 148, 197);
+}
+
+.para{
+    font-color:red;
+    font-size: 64px;
+}
+
+#unique{
+     font-color:red;
+     font-size: 42px;
+}
