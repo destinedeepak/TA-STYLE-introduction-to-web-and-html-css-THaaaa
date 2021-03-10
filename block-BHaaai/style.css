@@ -1,0 +1,44 @@
+body{
+    background-color:#22396A;  
+}
+header{
+    text-align: center;
+}
+p{
+    color:white;
+    font-family:Garamond;
+    font-size: 20px; 
+}
+
+
+h1{
+    font-size: 45px;
+    color: white;
+    font-family:verdana;
+
+}
+
+h2{
+    color:#31BB66;
+    font-size: 38px;
+}
+
+h3{
+    color:white;
+    font-family:Garamond;
+    font-size: 25px;
+    font-weight: normal;
+}
+h4{
+    color:white;
+    font-size: 18px;
+    font-weight: lighter;
+   
+}
+
+a{
+    color:rgb(228, 19, 54);
+    font-family:verdana;
+}
+
+
